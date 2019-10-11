@@ -1,3 +1,6 @@
+
+USE sampledb;
+
 CREATE TABLE president(
   last_name VARCHAR(15) NOT NULL,
   first_name VARCHAR(15) NOT NULL,
